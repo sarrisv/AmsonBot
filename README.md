@@ -4,7 +4,7 @@
 
 ## Features
 * Arsenal inquiry (displays standing, points, and next 5 matches)
-* Daily reminders (randomized time for each to keep you on your toes)
+* Daily reminders (randomized time for each reminder to keep you on your toes)
 * Nightly reminders
 * Weekly Reminders
 
