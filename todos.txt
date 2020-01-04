@@ -1,0 +1,13 @@
+# TODO: More robust arsenal fetcher
+# TODO: Decluttering functionality
+# TODO: Better error handling
+# TODO: System exiting
+# TODO: Command to restart bot (admin only, our user ids)
+# TODO: User privileges
+# TODO: Write comments
+# TODO: Unicode handling for work
+# TODO: Better help menu
+
+# TODO: Remote editing via bot
+# TODO: Backups of work and alarms
+# TODO: User database
